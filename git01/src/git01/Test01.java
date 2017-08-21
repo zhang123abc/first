@@ -10,4 +10,7 @@ public class Test01 {
 	public void test1(){
 		
 	}
+	public void test02(){
+		
+	}
 }
