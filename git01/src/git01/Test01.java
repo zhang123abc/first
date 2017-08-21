@@ -7,4 +7,7 @@ public class Test01 {
 	public void test(){
 		
 	}
+	public void test1(){
+		
+	}
 }
