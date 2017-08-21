@@ -17,4 +17,7 @@ public class Test01 {
   public void test04(){
 		
 	}
+  public void test05(){
+		
+ 	}
 }
